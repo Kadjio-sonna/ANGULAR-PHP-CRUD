@@ -1,4 +1,4 @@
-# Projet pour le cours de Developpemnt Frontend
+# Projet pour le cours de Developpement Frontend
 
 ## Etape compilation du Projet
 - Creer une base de donnee **bd-angular-php**
